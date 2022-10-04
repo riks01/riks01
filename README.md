@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @riks01
+- 👋 Hi, I’m Rishikesh Singh
 - 👀 I’m interested in Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ML projects
